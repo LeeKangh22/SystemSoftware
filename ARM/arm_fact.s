@@ -1,5 +1,4 @@
-;Written by Dr. Ahmed Sallam (sallamah.weebly.com)
-;-------------------------------------------------
+
 .equ SWI_PrStr, 0x69 
 .equ SWI_PrInt,0x6b 
 .equ Stdout, 1 
